@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/df532c73-3c68-42e7-828a-4e1927c42047
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/vladmeer/solana-volume-bot.git
+git clone https://github.com/CodeX2124/Raydium-Volume-Bot.git
 cd solana-volume-bot
 ```
 ### 2. Install dependencies
@@ -57,10 +57,7 @@ npm run gather
 
 # Author
 
-### Telegram: [Vladmeer](https://t.me/vladmeer67)   
-https://t.me/vladmeer67
-
-### Twitter: [Vladmeer](https://x.com/vladmeer67)   
-https://x.com/vladmeer67
+### Telegram: [CodeX2124](https://t.me/CodeX2124)   
+https://t.me/CodeX2124
 
 You can always find me here, for help, or for other projects.
